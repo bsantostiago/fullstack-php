@@ -1,0 +1,9 @@
+Exercício 01 - Criar variáveis e/ou constantes para:
+Data de hoje
+Nome de uma pessoa
+Nome de um curso que esta pessoa faz
+Carga horária deste curso
+Limite de faltas*
+Coloque dados nestas variáveis e faça com que o script mostre no HTML uma mensagem apresentando o nome da pessoa, o nome do curso, a carga horária do curso e o limite de faltas.
+ 
+Dica: Para calcular o valor do limite de faltas, você pode fazer carga horária multiplicada por 0.25 ou dividindo carga horária por 4.
