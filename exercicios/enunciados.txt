@@ -7,3 +7,13 @@ Limite de faltas*
 Coloque dados nestas variáveis e faça com que o script mostre no HTML uma mensagem apresentando o nome da pessoa, o nome do curso, a carga horária do curso e o limite de faltas.
  
 Dica: Para calcular o valor do limite de faltas, você pode fazer carga horária multiplicada por 0.25 ou dividindo carga horária por 4.
+
+
+---
+
+Exercício 02 - Arrays
+Crie 01 array para armazenar os dados: nome de usuario, senha, idade, email, sexo, cidade e estado.
+
+Em seguida, mostre os valores de "nome de usuario", "email", "idade" e "sexo" em uma lista não-ordenada.
+
+Desafio: destaque estas informações de maneira alternada com CSS.
