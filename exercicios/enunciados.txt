@@ -62,3 +62,15 @@ JS              |   Comportamentos
 ----------------------------------
 PHP             |   Back-End
 ----------------------------------
+
+
+---
+
+Exercícios (pasta site)
+
+1) Adicione uma página de contato ao site
+
+2) Pesquise e programa um script PHP que permita identificar qual página está aberta no momento, e partir disso personalize o título de acordo com a página. Exemplos:
+index.php?	Página Inicial - Site PHP
+produtos.php?	Produtos - Site PHP
+servicos.php?	Serviços - Site PHP
