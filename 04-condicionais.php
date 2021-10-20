@@ -13,7 +13,6 @@
     <h2>Simples</h2>
 <?php
 $numero = 5;
-
 if( $numero > 1 ){
     echo "<p>A variável $numero é maior que 1</p>";
 } 

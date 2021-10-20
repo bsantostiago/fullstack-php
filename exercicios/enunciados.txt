@@ -34,3 +34,31 @@ SENÃO, SE (Salário maior que 1000), ENTÃO calcule um aumento de 5%
 Mostre no HTML uma mensagem informando o valor do salário antigo (antes do reajuste) e do novo salário (após o reajuste).
 
 DESAFIO: existe uma função nativa do PHP que permite mudar a forma como números são exibidos na tela. Descubra qual é esta função e a utilize para exibir os salários com o sinal de "." para separador de milhar e "," para separador de casa decimal.
+
+
+---
+
+EXERCÍCIO 04
+
+Crie um array associativo com 4 nomes de linguagens e uma pequena descrição para cada.
+
+Exemplo: 
+
+HTML -> Estruturação
+CSS -> Estilos
+JS -> Comportamentos
+PHP -> Back-End
+
+Em seguida, use um loop para iterar sobre este array e exibir todos os dados em linhas de uma tabela HTML conforme exemplo abaixo:
+
+----------------------------------
+    Linguagem   |   Descrição
+----------------------------------
+HTML            |   Estruturação
+----------------------------------
+CSS             |   Estilos
+----------------------------------
+JS              |   Comportamentos
+----------------------------------
+PHP             |   Back-End
+----------------------------------
