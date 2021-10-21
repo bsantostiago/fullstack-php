@@ -3,8 +3,8 @@
 ## PHP (oficial)
 <https://secure.php.net/manual/pt_BR/intro-whatis.php>
 
-## Curso de PHP
-<http://www.cursoemvideo.com/course/curso-php-iniciante/> 
+## Curso de PHP Guanabara
+<https://www.youtube.com/watch?v=F7KzJ7e6EAc> 
 
 ## Fórum Tableless
 <http://forum.tableless.com.br/c/desenvolvimento-back-end/php> 
