@@ -74,3 +74,18 @@ Exercícios (pasta site)
 index.php?	Página Inicial - Site PHP
 produtos.php?	Produtos - Site PHP
 servicos.php?	Serviços - Site PHP
+
+
+
+---
+
+EXERCÍCIO 05
+
+No HTML, crie um formulário para cadastro (simulação) de produtos com os campos:
+
+-Nome do produto (campo de texto)
+-Fabricante (lista de opções com pelo menos 4 nomes de fabricantes)
+-Preço (campo de número com valor mínimo de 100 e máximo de 10000, além de suporte à 2 casas decimais para os centavos)
+-Descrição (área de texto)
+
+Com PHP, faça a programação de processamento do formulário considerando o envio/recebimento via POST, filtros de sanitização e validação de campos obrigatórios.
